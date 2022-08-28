@@ -17,27 +17,26 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
 
 
 ### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*  Cross-platform and cross-browser testing experience
+*  Comprehensive understanding of QA processes and methodologies (Check list, Test suite, Test case, Bug report, SDLC) and their practical use
+*  Ability to work with test documentation;
+*  Analytical mindset, attention to detail, ability to formulate a problem clearly and concisely;
+*  Analytical mindset, attention to detail, ability to formulate a problem clearly and concisely;
+*  Skills of interaction with the team at all stages of development;
+*  Cross-platform and cross-browser testing experience
+*  English at the level of reading and writing technical documentation.
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
+*   Understanding JSON, HTML, CSS
+*   MySQL, PostgreSQL, MongoDB
+*   Experience with Jira, Confluence,Mantis,Bugzilla,Redmine
 *   GitHub/GitLab/Gerrit/Bitbucket
 
-### My opensource projects
+### My examples of test cases
 
 *   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 *   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
 *   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div>
+
