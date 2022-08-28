@@ -8,7 +8,7 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
    <a href="https://www.linkedin.com/in/romankh3/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/joinchat/#@forichf2604">
+   <a href="https://t.me/joinchat/forichf2604">
        <img src="https://img.shields.io/badge/Telegram-@forichf?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
