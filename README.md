@@ -5,8 +5,8 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
 
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <a href="https://career.habr.com/for4">
+       <img src="https://img.shields.io/badge/habr-%230077B5.svg?&style=for-the-badge&logo=habr&logoColor=white"/>
    </a>
    <a href="https://t.me/forichf2604">
        <img src="https://img.shields.io/badge/Telegram-@forichf?style=for-the-badge&logo=telegram&logoColor=white"/>
