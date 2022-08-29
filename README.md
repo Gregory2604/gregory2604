@@ -27,7 +27,7 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
 
 ## 🛠 Technical Stack
 *   Understanding JSON, HTML, CSS
-*   MySQL, PostgreSQL, MongoDB
+*   MySQL
 *   Experience with Jira, Confluence,Mantis,Bugzilla,Redmine
 *   GitHub
 
