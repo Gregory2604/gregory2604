@@ -30,7 +30,7 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
 *   Understanding JSON, HTML, CSS
 *   MySQL, PostgreSQL, MongoDB
 *   Experience with Jira, Confluence,Mantis,Bugzilla,Redmine
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   GitHub
 
 ### My examples of test cases
 
