@@ -31,9 +31,9 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
 *   Experience with Jira, Confluence,Mantis,Bugzilla,Redmine
 *   GitHub
 
-### My examples of test cases
+### Quick jump links
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+*   [Bug reports](https://github.com/romankh3/image-comparison) - Experience writing bug reports in various bug tracking systems
 *   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
 *   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
