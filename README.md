@@ -34,8 +34,7 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
 ### Quick jump links
 
 *   [Bug reports](https://github.com/Gregory2604/bug-reports) - Experience writing bug reports in various bug tracking systems
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+*   [Testcases](https://github.com/Gregory2604/testcases) - Experience of filling test cases in various systems
+
 
 
