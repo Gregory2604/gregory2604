@@ -33,7 +33,7 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
 ### Quick jump links
 
 *   [Bug reports](https://github.com/Gregory2604/bug-reports) - Experience writing bug reports in various bug tracking systems
-*   [Testcases](https://github.com/Gregory2604/testcases) - Experience of filling test cases in various systems
+*   [Test cases](https://github.com/Gregory2604/testcases) - Experience of filling test cases in various systems
 
 
 
