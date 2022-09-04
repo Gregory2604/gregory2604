@@ -25,10 +25,14 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
 *  English at the level of reading and writing technical documentation.
 
 ## 🛠 Technical Stack
-*   Understanding JSON, HTML, CSS
-*   MySQL
-*   Experience with Jira, Confluence,Mantis,Bugzilla,Redmine
-*   GitHub
+
+*   Functional testing • API testing • Black box testing
+*   MySQL • Postman   
+*   Jira • Confluence • Mantis • Bugzilla • Redmine
+*   Site testing • Free Search testing • Manual testing
+*   Software testing
+
+
 
 ### Quick jump links
 
