@@ -18,7 +18,7 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
 
 ### Key points
 *  Cross-platform and cross-browser testing experience
-*  Comprehensive understanding of QA processes and methodologies (Check list, Test suite, Test case, Bug report, SDLC) and their practical use
+*  Comprehensive understanding of QA processes and methodologies (Check list, Test suite, Test case, Bug report) and their practical use
 *  Ability to work with test documentation;
 *  Analytical mindset, attention to detail, ability to formulate a problem clearly and concisely;
 *  Skills of interaction with the team at all stages of development;
