@@ -27,7 +27,7 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
 ## 🛠 Technical Stack
 
 *   Functional testing • API testing • Black box testing
-*   MySQL • Postman • Playwright  
+*   MySQL • Postman • Playwright • Browserstack
 *   Jira • Confluence • Mantis • Bugzilla • Redmine • Trello
 *   Site testing • Free Search testing • Manual testing
 *   Software testing
