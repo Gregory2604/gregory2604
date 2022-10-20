@@ -8,9 +8,6 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
    <a href="https://career.habr.com/for4">
        <img src="https://img.shields.io/badge/habr-%230077B5.svg?&style=for-the-badge&logo=habr&logoColor=white"/>
    </a>
-   <a href="https://t.me/forichf2604">
-       <img src="https://img.shields.io/badge/Telegram-@forichf?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:forichf@gmail.com'>forichf@gmail.com</a>
 </p>
