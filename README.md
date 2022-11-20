@@ -101,9 +101,9 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
     </td>
         <td align="center" width="96">
       <a href="#teacher-cheater-stack">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" style="max-width: 100%;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="MongoDB" style="max-width: 100%;">
       </a>
-      <br>MongoDB
+      <br>Jenkins
     </td>
         <td align="center" width="96">
       <a href="#teacher-cheater-stack">
@@ -124,9 +124,9 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
       <br>Cypress
      </td><td align="center" width="96">
       <a href="#teacher-cheater-stack">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" style="max-width: 100%;">
+        <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" width="48" height="48" alt="Vue" style="max-width: 100%;">
       </a>
-      <br>Vue
+      <br>Gradle
     </td>
   </tr>
 </tbody></table>
