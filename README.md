@@ -23,19 +23,7 @@ In general worked with API testing (Postman), Charles/Fiddler, Google Chrome Dev
       </a>
       <br>Postman
     </td>
-    <td align="center" width="96">
-      <a href="#gregory2604">
-        <img src="https://camo.githubusercontent.com/48ce7b3d6142f23bbb15ffa4b1e3d6af2d98fe8828a343f2801b6972c7086882/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f4769745f69636f6e2e7376672f3132303070782d4769745f69636f6e2e7376672e706e67" width="48" height="48" alt="Git" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" style="max-width: 100%;">
-      </a>
-      <br>Git
-    </td>
-     <td align="center" width="96"> 
-      <a href="#gregory2604">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="48" height="48" alt="github" style="max-width: 100%;">
-      </a>
-      <br>Github
-    </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#gregory2604">
         <img src="https://camo.githubusercontent.com/752dabc7ca2275ee7a079fa24433ff2c6307eb4cddc541dfed60749f62772b41/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" width="48" height="48" alt="JMeter" style="max-width: 100%;">
       </a>
